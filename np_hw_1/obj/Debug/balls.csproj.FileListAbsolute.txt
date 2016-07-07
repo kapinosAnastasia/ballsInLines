@@ -1,0 +1,11 @@
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\bin\Debug\np_hw_1.exe.config
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.exe
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\bin\Debug\np_hw_1.exe
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\bin\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\balls.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.g.resources
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.ClientForm.resources
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.Form1.resources
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\balls.csproj.GenerateResource.Cache

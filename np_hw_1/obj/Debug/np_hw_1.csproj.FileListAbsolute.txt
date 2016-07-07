@@ -1,0 +1,34 @@
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\bin\Debug\np_hw_1.exe
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\bin\Debug\np_hw_1.pdb
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\obj\Debug\np_hw_1.csprojResolveAssemblyReference.cache
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\obj\Debug\np_hw_1.Form1.resources
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\obj\Debug\np_hw_1.Properties.Resources.resources
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\obj\Debug\np_hw_1.csproj.GenerateResource.Cache
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\obj\Debug\np_hw_1.exe
+c:\users\anastasia\documents\visual studio 2015\Projects\np_hw_1\np_hw_1\obj\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1\np_hw_1\obj\Debug\np_hw_1.ClientForm.resources
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.exe
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\bin\Debug\np_hw_1.exe
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\bin\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.ClientForm.resources
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.Form1.resources
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.Properties.Resources.resources
+C:\Users\Anastasia\Documents\Visual Studio 2015\Projects\np_hw_1_classes1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\np_hw_1\np_hw_1\obj\Debug\np_hw_1.exe
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\np_hw_1\np_hw_1\obj\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.exe
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\bin\Debug\np_hw_1.exe
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.ClientForm.resources
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.Form1.resources
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.Properties.Resources.resources
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\bin\Debug\np_hw_1.pdb
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\bin\Debug\np_hw_1.exe.config
+C:\Users\Anastasia\Documents\A_Coding\NP\HW\1\np_hw_1\np_hw_1\obj\Debug\np_hw_1.g.resources
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\bin\Debug\np_hw_1.exe.config
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.exe
+C:\Users\Anastasia\Desktop\projectForGitHub\np_hw_1\obj\Debug\np_hw_1.pdb
